@@ -3911,13 +3911,13 @@ textarea:focus::placeholder {
   font-weight: 400;
   color: var(--body-text);
   text-transform: none;
-  margin-bottom: 5px;
+  margin-bottom: 40px;
 }
 .contact-area .contact-title-b {
   font-size: 25px;
   font-weight: 700;
+  color: black;
   text-transform: lowercase;
-  margin-bottom: 45px;
 }
 
 .contact-form .input-lebel {
