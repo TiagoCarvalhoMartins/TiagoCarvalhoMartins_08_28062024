@@ -2899,6 +2899,13 @@ textarea:focus::placeholder {
   text-transform: capitalize;
   margin-bottom: 0;
 }
+.bostami-parsonal-info-contact-item .text a {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: var(--common-black);
+  margin-bottom: 0;
+}
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .bostami-parsonal-info-contact-item .text p {
     font-size: 14px;
