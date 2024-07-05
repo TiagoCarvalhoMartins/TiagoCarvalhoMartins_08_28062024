@@ -3900,12 +3900,23 @@ textarea:focus::placeholder {
   .contact-area {
     padding: 60px 20px;
   }
+  .contact-area .contact-title {
+    text-align: center;
+  }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .contact-area {
     padding: 60px 30px;
   }
+  .contact-area .contact-title {
+    text-align: center;
+  }
 }
+
+.form-btn-wrap {
+  text-align: center;
+}
+
 .contact-area .contact-title {
   font-size: 25px;
   font-weight: 400;
