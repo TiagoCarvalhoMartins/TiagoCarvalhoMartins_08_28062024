@@ -3910,7 +3910,7 @@ textarea:focus::placeholder {
   font-size: 25px;
   font-weight: 400;
   color: var(--body-text);
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 13px;
 }
 .contact-area .contact-title-b {
